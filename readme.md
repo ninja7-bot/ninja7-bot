@@ -1,6 +1,6 @@
 <b>Hey there! Dark Samurai here.</b>
 ```yaml
-* - To Begin
+  - To Begin
   Keshav Vishwakarma this side.
   I am currently studying CSE in SVVV, Indore.
   - Interests
@@ -12,9 +12,7 @@
   I am always scrolling F-Droid more than Instagram in search of some stupid app to try out.
   So to say, but not to brag, I am a weeb [^_^].
   - 
-*
 ```
-#
 <a href="https://www.linkedin.com/in/keshav-vishwakarma-285655259/">
   <img heigh="50" align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
