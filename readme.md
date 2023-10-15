@@ -25,6 +25,7 @@
 
 #
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ninja7-bot&show_icons=true&theme=radical)
+#
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninja7-bot&layout=compact)
 #
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ujg8ocqdv7o0uby7lku5ydyf7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ujg8ocqdv7o0uby7lku5ydyf7&redirect=true)
