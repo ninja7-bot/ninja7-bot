@@ -5,8 +5,8 @@
   I am currently studying CSE in SVVV, Indore.
   - Interests
   I've always been interested in Game Development.
-  I've worked awhile with Pythom, C and C++.
-  My current interest is in GoLang.
+  I've worked awhile with Python, C and C++.
+  My current interest is in GoLang, Lua, and Love2D.
   - Hobbies
   Aside from a nerd in tech, I love to write and sometimes post my stuff.
   I am always scrolling F-Droid more than Instagram in search of some stupid app to try out.
