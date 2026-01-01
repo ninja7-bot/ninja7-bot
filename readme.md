@@ -69,8 +69,8 @@ Focus Areas    : Game Systems • AI Integration • Backend Logic
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninja7-bot&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja7-bot&layout=compact&theme=radical&hide_border=true" width="48%" />
+  ![GitHub followers](https://img.shields.io/github/followers/ninja7-bot?style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/github/stars/ninja7-bot?style=for-the-badge)
 </p>
 
 ---
