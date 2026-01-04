@@ -104,14 +104,14 @@
       <p align="center">
         <strong>遊戯 Game Dev</strong><br/>
         <img src="https://img.shields.io/badge/LÖVE2D-1a1a1a?style=flat-square&logo=love&logoColor=white" />
-        <img src="https://img.shields.io/badge/SDL-1a1a1a?style=flat-square&logoColor=white" /> <sup>修行中</sup>
+        <img src="https://img.shields.io/badge/SDL-1a1a1a?style=flat-square&logoColor=white" />
       </p>
       <p align="center">
         <strong>知能 AI / ML</strong><br/>
         <img src="https://img.shields.io/badge/NumPy-1a1a1a?style=flat-square&logo=numpy&logoColor=white" />
         <img src="https://img.shields.io/badge/Pandas-1a1a1a?style=flat-square&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/scikit--learn-1a1a1a?style=flat-square&logo=scikitlearn&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=white" /> <sup>修行中</sup>
+        <img src="https://img.shields.io/badge/PyTorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=white" />
       </p>
       <p align="center">
         <strong>道具 Tools</strong><br/>
