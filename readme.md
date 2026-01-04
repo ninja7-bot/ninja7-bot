@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=800&size=30&duration=4000&pause=1000&color=1A1A1A&center=true&vCenter=true&width=500&lines=我が名は宮本武蔵;I+am+the+Ronin+Developer;Walking+the+Endless+Path" alt="Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=800&size=30&duration=4000&pause=1000&color=1A1A1A&center=true&vCenter=true&width=500&lines=我が名は宮本武蔵;HealthYou;ZeroTwo" alt="Typing" />
   
 </div>
 
@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="55%" valign="center">
       <br/>
       <h2>「 道 」 THE WAY</h2>
       <br/>
@@ -59,7 +59,7 @@
       </div>
       <br/>
     </td>
-    <td width="45%" valign="top">
+    <td width="45%" valign="center">
       <img src="https://w0.peakpx.com/wallpaper/863/398/HD-wallpaper-grateful-miyamoto-musashi-slam-dunk-takehiko-inoue-vagabond.jpg" width="100%" alt="portrait"/>
     </td>
   </tr>
