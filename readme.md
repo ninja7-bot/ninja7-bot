@@ -91,7 +91,6 @@
         <img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/C-1a1a1a?style=flat-square&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/Go-1a1a1a?style=flat-square&logo=go&logoColor=white" />
         <img src="https://img.shields.io/badge/Lua-1a1a1a?style=flat-square&logo=lua&logoColor=white" />
       </p>
       <p align="center">
